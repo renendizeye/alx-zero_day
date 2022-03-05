@@ -1,2 +1,2 @@
 My first readme
-and the journey begins!
+and the journey starts!
